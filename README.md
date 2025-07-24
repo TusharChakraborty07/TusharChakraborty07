@@ -5,11 +5,16 @@
 </h1>
 
 <p align="center">
-<a href="https://github.com/TusharChakraborty07"><img src="https://img.shields.io/github/followers/TusharChakraborty07?label=Follow&style=social" alt="Follow on GitHub"></a>
-<a href="https://github.com/TusharChakraborty07"><img src="https://img.shields.io/github/last-commit/TusharChakraborty07?style=for-the-badge" alt="Last Commit"></a>
-<a href="https://github.com/TusharChakraborty07"><img src="https://img.shields.io/github/languages/top/TusharChakraborty07?style=flat-square" alt="Top Language"></a>
+  <a href="https://github.com/TusharChakraborty07">
+    <img src="https://img.shields.io/github/followers/TusharChakraborty07?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/tushar-chakraborty-91289a290">
+    <img src="https://img.shields.io/badge/-Tushar%20Chakraborty-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chakrabortytushar914@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer at work" />
 </p>
