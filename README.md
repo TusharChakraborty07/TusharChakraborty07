@@ -8,10 +8,10 @@
   <a href="https://github.com/TusharChakraborty07">
     <img src="https://img.shields.io/github/followers/TusharChakraborty07?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/tushar-chakraborty-91289a290">
+  <a href="[https://linkedin.com/in/tushar-chakraborty-91289a290](https://www.linkedin.com/in/tushar-chakraborty-9a603122b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/-Tushar%20Chakraborty-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:chakrabortytushar914@gmail.com">
+  <a href="mailto:chakrabortytushar684@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -45,15 +45,6 @@
 - REST APIs, MongoDB schemas, chatbot flows
 - Hosting & deployment strategies (CDN, GitHub Pages, Vercel)
 
----
-
-### 📫 How to Reach Me
-
-📧 [Email](mailto:chakrabortytushar684@gmail.com) •  
-💼 [LinkedIn](https://www.linkedin.com/in/tushar-chakraborty-9a603122b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-🌐 [GitHub](https://github.com/TusharChakraborty07)
-
----
 
 ### 🛠️ Skills & Tools
 
@@ -86,3 +77,14 @@
 <a href="https://www.buymeacoffee.com/tusharchak"><img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me Coffee" /></a>
 <a href="https://linkedin.com/in/tushar-chakraborty-91289a290"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+---
+
+### 📫 How to Reach Me
+
+📧 [Email](mailto:chakrabortytushar684@gmail.com) •  
+💼 [LinkedIn](https://www.linkedin.com/in/tushar-chakraborty-9a603122b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🌐 [GitHub](https://github.com/TusharChakraborty07)
+
+---
+
