@@ -1,17 +1,4 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C4FF&center=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Tushar+Chakraborty;%F0%9F%9A%80+Full+Stack+Developer" alt="Typing SVG">
-</a>
-</h1>
-
-
-<p align="center">
-  <a href="https://github.com/TusharChakraborty07">
-    <img src="https://img.shields.io/github/followers/TusharChakraborty07?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/tushar-chakraborty-9a603122b" target="_blank">
-  <img src="https://img.shields.io/badge/-Tushar%20Chakraborty-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-</a><h1 align="center">
+ <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C4FF&center=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Tushar+Chakraborty;%F0%9F%9A%80+Full+Stack+Developer" alt="Typing SVG">
   </a>
