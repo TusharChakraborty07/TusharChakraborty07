@@ -86,9 +86,11 @@ I'm a **Full Stack Developer** with a knack for building **scalable**, **user-fr
   <a href="https://react.dev">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" title="React" />
   </a>
-  <a href="https://preactjs.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/preact/preact-original.svg" width="40" alt="Preact" title="Preact" />
+
+  <a href="https://preactjs.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/preactjs/logo/master/preact-original.svg" width="40" alt="Preact" title="Preact" />
   </a>
+  
   <a href="https://www.javascript.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
   </a>
