@@ -143,15 +143,16 @@ I'm a **Full Stack Developer** with a knack for building **scalable**, **user-fr
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 Stats   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharChakraborty07&show_icons=true&theme=dracula&hide_border=true&border_radius=12&cache_seconds=3600" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=TusharChakraborty07&theme=dracula&hide_border=true&border_radius=12&cache_seconds=3600" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharChakraborty07&layout=compact&theme=dracula&hide_border=true&border_radius=12&cache_seconds=3600" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dwaipayan7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dwaipayan7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwaipayan7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+ 
+  <a href="https://github.com/dwaipayan7">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dwaipayan7&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+</a>
+ 
 </p>
 
 ---
