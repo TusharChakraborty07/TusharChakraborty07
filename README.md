@@ -9,9 +9,10 @@
   <a href="https://github.com/TusharChakraborty07">
     <img src="https://img.shields.io/github/followers/TusharChakraborty07?label=Follow&style=social" />
   </a>
-  <a href="[https://linkedin.com/in/tushar-chakraborty-91289a290](https://www.linkedin.com/in/tushar-chakraborty-9a603122b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-    <img src="https://img.shields.io/badge/-Tushar%20Chakraborty-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/tushar-chakraborty-9a603122b" target="_blank">
+  <img src="https://img.shields.io/badge/-Tushar%20Chakraborty-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+
   <a href="mailto:chakrabortytushar684@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
