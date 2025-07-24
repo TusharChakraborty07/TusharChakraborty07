@@ -62,16 +62,13 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TusharChakraborty07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharChakraborty07&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharChakraborty07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharChakraborty07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=3600" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=TusharChakraborty07&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=3600" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharChakraborty07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=3600" alt="Top Languages" />
 </p>
-
----
 
 ### ☕ Support & Socials
 
