@@ -149,9 +149,9 @@ I'm a **Full Stack Developer** with a knack for building **scalable**, **user-fr
   <a href="https://github.com/TusharChakraborty07">
     <img src="https://github-readme-stats.vercel.app/api?username=TusharChakraborty07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/TusharChakraborty07">
+<!--   <a href="https://github.com/TusharChakraborty07">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharChakraborty07&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  </a>
+  </a> -->
   <a href="https://github.com/TusharChakraborty07">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharChakraborty07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
   </a>
