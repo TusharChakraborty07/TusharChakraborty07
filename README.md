@@ -83,42 +83,53 @@ I'm a **Full Stack Developer** with a knack for building **scalable**, **user-fr
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <a href="https://www.java.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
+  
+  <a href="https://www.w3.org/html">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" title="HTML" />
+    </a>
+    
+  <a href="https://www.w3.org/Style/CSS">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS" />
+    </a>
+    <a href="https://getbootstrap.com">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" title="Bootstrap" />
+    </a>
+    <a href="https://tailwindcss.com">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS" title="TailwindCSS" />
   </a>
-  <a href="https://www.cprogramming.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C" title="C" />
-  </a>
-  <a href="https://www.javascript.com">
+  
+ <a href="https://www.javascript.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
   </a>
-  <a href="https://nodejs.org">
+ <a href="https://nodejs.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js" />
   </a>
   <a href="https://expressjs.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express.js" title="Express.js" />
   </a>
-  <a href="https://www.w3.org/html">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" title="HTML" />
-  </a>
-  <a href="https://www.w3.org/Style/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS" />
-  </a>
-  <a href="https://getbootstrap.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" title="Bootstrap" />
-  </a>
-  <a href="https://tailwindcss.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS" title="TailwindCSS" />
-  </a>
   <a href="https://react.dev">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" title="React" />
   </a>
+  
+  
+  <a href="https://www.cprogramming.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C" title="C" />
+  </a>
+  
+  <a href="https://www.java.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
+  </a>
+  
+ 
+  
   <a href="https://www.mysql.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL" />
   </a>
   <a href="https://www.mongodb.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB" />
   </a>
+
+  
   <a href="https://www.microsoft.com/en-us/microsoft-365">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="MS Office" title="MS Office" />
   </a>
